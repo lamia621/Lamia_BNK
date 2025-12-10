@@ -9,11 +9,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 ---
-### 💖 Code & Chill  
+### 🎧 Busy coding & vibing to  
 <p align="center">
-  <img src="https://i.ibb.co/vY7PKbQ/cute-pink-setup.gif" width="55%" alt="Soft Tech Setup"/>
+  <img src="https://i.ibb.co/Y0sdp2P/pink-spotify-widget.gif" width="55%" />
 </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Lamia-dev&style=flat&color=orange)
 
 </div>
