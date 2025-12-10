@@ -10,8 +10,8 @@
 
 ---
 
-### 🎧 Busy coding & vibing to:
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+### 💖 Code & Chill  
+Coding with coffee, good vibes, and a touch of pink ✨.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lamia-dev&style=flat&color=orange)
 
