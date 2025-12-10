@@ -9,10 +9,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 ---
-### 🎧 Busy coding & vibing to  
-<p align="center">
-  <img src="https://i.ibb.co/Y0sdp2P/pink-spotify-widget.gif" width="55%" />
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Lamia-dev&style=flat&color=orange)
 
 </div>
