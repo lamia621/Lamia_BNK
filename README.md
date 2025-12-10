@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/>
 
-# 👋 Hi, I’m Lamia  
+# 👋 Hi, I’m Lamia / ⵍⴰⵎⵉⴰ 
 ### Junior Full-Stack Developer  
 *(React.js — Laravel — SQL / MongoDB)*
 
@@ -27,7 +27,6 @@
 - 🛠️ Backend development using **PHP Laravel**  
 - 🗄️ Experience with databases: **MySQL, MongoDB, SQL**  
 - 👩‍💻 Passionate about building clean UI and scalable APIs  
-- 🐧 Love exploring **Linux**, Terminal tools & dev productivity  
 - 💬 Ask me about: **Web Dev, UI, Backend logic, or tech in general**  
 
 ---
@@ -53,7 +52,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
