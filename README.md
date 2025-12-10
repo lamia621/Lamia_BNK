@@ -9,7 +9,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 ---
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
+### 🎀 Code & Chill  
+<p align="center">
+  <img src="https://i.ibb.co/vY7PKbQ/cute-pink-setup.gif" width="55%" alt="Soft Tech Setup"/>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lamia-dev&style=flat&color=orange)
 
@@ -83,4 +87,3 @@
 <div align="center">
 ✨ *Thanks for visiting my profile!* ✨  
 </div>
-
