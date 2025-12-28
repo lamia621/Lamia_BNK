@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/>
+
 
 # 👋 Hi, I’m Lamia / ⵍⴰⵎⵉⴰ 
 ### Junior Full-Stack Developer  
